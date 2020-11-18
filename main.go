@@ -4,5 +4,6 @@ import "fmt"
 
 func main() {
 	fmt.Println("asdasdasd")
+	fmt.Print("testings")
 
 }
